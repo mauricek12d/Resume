@@ -1,13 +1,15 @@
 # Maurice Zuniga
 
-**Address:** 
 **Email:** Mauricek12d@gmail.com  
-**Phone:** 732-766-4611  
+
+**Linkedin:** https://www.linkedin.com/in/maurice-zuniga424/
+
+**Portfolio:** https://zunigaportfolio.netlify.app/about
 
 ---
 
 ## Objective  
-Driven and organized professional seeking a position with Apple to leverage my technical aptitude, communication, and customer service skills.
+Full Stack Web Developer with a background in management and engineering, blending analytical problem-solving with strong UI/UX design sensibilities. Recent graduate of Rutgers Software Development Bootcamp with hands-on experience in developing dynamic, scalable applications using the MERN stack, TypeScript, and GraphQL. Proven ability to manage both front-end and back-end development tasks, collaborate in agile teams, and implement CI/CD pipelines. Known for adaptability, communication skills, and attention to detail.
 
 ---
 
@@ -54,9 +56,35 @@ Driven and organized professional seeking a position with Apple to leverage my t
 ---
 
 ## Technical Skills  
-- **Front-End Development:** HTML5, CSS3, JavaScript, React.js, Bootstrap  
-- **Back-End Development:** Node.js, MySQL, MongoDB, RESTful APIs  
-- **Software Proficiency:** AutoCAD (Netwin and SpatialNet), Microsoft Word, Excel  
-- **Other Tools:** Git/GitHub, Jira, Postman  
+- **Programming Languages** JavaScript, TypeScript, Java, Python, HTML, CSS, SQL, NoSQL.
+- **Frameworks & Libraries** React, Angular, Express, FastAPI
+- **Testing** Cypress, CI/CD Pipeline in Github Actions 
+- **Other Tools:** VS Code, npm/yarn/pnpm, Webpack, Vite, ESBuild, Insomnia, GitHub, Render, Netlify, GitHub Actions, MongoDB Compass, Mongoose, GraphQL, ESLint
+
+---
+
+### Projects
+**WorkoutBuddy** | (MERN Stack, GraphQL, Render)
+A social fitness app enabling users to log workouts, set goals, and connect with others. Includes JWT auth, activity tracking, and reminders.
+https://github.com/mauricek12d/Workoutbuddy.git
+
+**Google Books GraphQL API** 
+Refactored a RESTful Google Books search app to use GraphQL and Apollo Server. Built with the MERN stack and deployed on Render.
+https://github.com/mauricek12d/Google-Books-API.git
+
+**Tech Quiz App**
+A full-stack quiz app with a React front end and MongoDB backend. Integrated component and end-to-end testing with Cypress.
+https://github.com/mauricek12d/Quiz-Testing.git
+
+---
+### Education
+Full Stack Web Development Bootcamp Certificate
+Rutgers University, New Brunswick, NJ
+An intensive program focused on HTML5, CSS3, JavaScript, Node.js, Express, React, MongoDB, MySQL, GraphQL, and Git. Developed multiple full-stack applications and worked in collaborative agile teams.
+
+
+
+
+
 
 
